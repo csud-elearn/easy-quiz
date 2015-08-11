@@ -1,0 +1,33 @@
+.
+├── client
+│   ├── helpers
+│   │   ├── config.js
+│   │   ├── errors.js
+│   │   └── handlebars.js
+│   ├── main.html
+│   ├── main.js
+│   ├── stylesheets
+│   │   └── style.css
+│   └── templates
+│       ├── application
+│       │   ├── layout.html
+│       │   ├── layout.js
+│       │   └── not_found.html
+│       └── includes
+│           ├── access_denied.html
+│           ├── errors.html
+│           ├── errors.js
+│           ├── header.html
+│           ├── header.js
+│           └── loading.html
+├── lib
+│   └── collections
+│       ├── questions.js
+│       ├── quizzes.js
+│       └── test.json
+├── server
+│   ├── fixtures.js
+│   └── publications.js
+└── tree.txt
+
+9 directories, 21 files

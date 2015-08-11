@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Titre du quiz de test",
+        "tags": ["test", "introduction"],
+        "accessCode": 1,
+        "description": "Ce qui permet de développer l'application Meteor",
+        "totalPoints": -1,
+        "type": "formatif",
+        "level": 1,
+        "questions": [1, 2, 4, 3]
+    
+  }
+]
